@@ -37,12 +37,12 @@ except:
 		os.system('pacman -Sy figlet')
 wp = f'''{result}\n{C}__ {G}Hello World!{C} __\n{C}==================\n{info} Coded By: {G}Kiny\n{info} Twitter: {G}@KinyBruno\n{info} Github: {G}https://github.com/Kiny-Kiny\n{info} Agradecimento(s): {G}Rei Pato\n{warning} Lembre-se de ativar a opção de 'Apps menos seguros' na conta que for utilizar {warning}\n{info} Grupo do WhatsApp: {G}https://chat.whatsapp.com/JFQmQ4QJtXR8VenQ2fIaAi\n{info} Grupo do Telegram: {G}https://t.me/kinycrimson\n{info} Grupo de Avisos: {G}https://t.me/kinycrimsonXD\n{info} Twitter: {G}@KinyBruno\n{info} Contato: {G}+55 (21) 7918-0533\n{info} Discord: {G}https://discord.gg/3EJTadHAFR\n{info} Pix: {G}(61) 9603-5417\n{C}=================='''
 main = f'''
-{wp}\n{C}[{G}1{C}] Desativar Numero
-{C}[{G}2{C}] Retirar do Contador
-{C}[{G}3{C}] Retirar Banimento
-{C}[{G}4{C}] Banir Numero
-{C}[{G}5{C}] Derrubar Blindagem
-{C}[{G}6{C}] Blindar Número
+{wp}\n{C}[{G}1{C}] Disable Number
+{C}[{G}2{C}] Remove from Counter
+{C}[{G}3{C}] Remove Ban
+{C}[{G}4{C}] ban number
+{C}[{G}5{C}] Drop Shield
+{C}[{G}6{C}] Shield Number
 {C}[{G}7{C}] {R}???{C}
 ==================
 {C}[{G}8{C}] Liberar Permissão de Apps menos seguros
