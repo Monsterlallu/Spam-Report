@@ -16,6 +16,17 @@ C = '\033[1;37m'
 G = '\033[1;32m'
 R = '\033[1;31m'
 error = f'{C}[{R}ERROR{C}]';warning = f'{C}[{Y}!{C}]';info = f'{C}[{G}i{C}]'
+echo -e "\e[31m"
+
+figlet "MONSTER"
+
+echo -e "\e[31m"
+
+figlet "KATTAPPA"
+
+sleep 1
+
+clear
 result = os.popen('figlet REPORT').read()
 try:
 	if __name__ =='__main__':
