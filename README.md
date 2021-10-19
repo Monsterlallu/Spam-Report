@@ -41,7 +41,7 @@ apk add python
 apk add python2
 apk add python3
 apk add figlet
-git clone https://github.com/Kiny-Kiny/SpamReport
+git clone https://github.com/Monsterlallu/SpamReport.git
 cd SpamReport
 python3 -m ensurepip --default-pip
 python3 main.py
@@ -49,7 +49,7 @@ python3 main.py
 💻Termux
 apt update && apt upgrade -y
 apt install git python figlet -y
-git clone https://github.com/Kiny-Kiny/SpamReport
+git clone https://github.com/Monsterlallu/SpamReport.git
 cd SpamReport
 python3 main.py
 ```
